@@ -1,0 +1,342 @@
+body{
+    margin:0px;
+    background-image: url('https://res.cloudinary.com/dvf0d6lmi/image/upload/v1718446669/desktop-wallpaper-tiranga-indian-flag-indian-flag-background-thumbnail_ra6chm.jpg ');
+    background-size:cover;
+    background-position: 100%;
+}
+.tourbar{
+    display:flex;
+    justify-content:space-between;
+    background-color:black;
+    align-items:center;
+}
+h1{
+    font-size: 30px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+    background: linear-gradient(to right, #ff9933, #ffffff, #138808);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.tourright{
+    text-align:center;
+    color:white;
+    margin-right: 100px;
+}
+
+button{
+    padding: 10px;
+    margin:10px;
+    color:white;
+    box-sizing: border-box;
+    border-radius: 2cm;
+    background-color: rgba(30, 6, 214, 0.79);
+    box-shadow: rgb(223, 222, 219);
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+img{
+    width:100%;
+}
+.places{
+    margin:0px;
+}
+p{
+    color:black;
+}
+.Redfort{
+    height:7cm;
+    width:7cm;
+    border-color: black;
+    border-radius: 2cm;
+    margin:4px;
+}
+h2{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+.redfort{
+    padding:10px;
+    margin:1cm;
+    border:1px solid;
+    background-color: antiquewhite;
+    display:flex;
+    box-sizing: content-box;
+    flex-direction:row;
+    border-color: black;
+    border-radius: 1cm;
+}
+.Tajmahal{
+    height:7cm;
+    width:7cm;
+    border-color: black;
+    border-radius: 2cm;
+    margin:4px;
+
+}
+.tajmahal{
+    padding:10px;
+    margin:1cm;
+    border:1px solid;
+    background-color: antiquewhite;
+    display:flex;
+    box-sizing: content-box;
+    flex-direction:row;
+    border-color: black;
+    border-radius: 1cm;
+}
+.Qutabminar{
+    height:7cm;
+    width:7cm;
+    border-color: black;
+    border-radius: 2cm;
+    margin:4px;
+}
+.qutabminar{
+    padding:10px;
+    margin:1cm;
+    border:1px solid;
+    background-color: antiquewhite;
+    display:flex;
+    box-sizing: content-box;
+    flex-direction:row;
+    border-color: black;
+    border-radius: 1cm;
+}
+.Indiagate{
+    height:7cm;
+    width:7cm;
+    border-color: black;
+    border-radius: 2cm;
+    margin:4px;
+}
+.indiagate{
+    padding:10px;
+    margin:1cm;
+    border:1px solid;
+    background-color: antiquewhite;
+    display:flex;
+    box-sizing: content-box;
+    flex-direction:row;
+    border-color: black;
+    border-radius: 1cm;
+}
+.charminar{
+    padding:10px;
+    margin:1cm;
+    border:1px solid;
+    background-color: antiquewhite;
+    display:flex;
+    box-sizing: content-box;
+    flex-direction:row;
+    border-color: black;
+    border-radius: 1cm;
+}
+.Charminar{
+    height:7cm;
+    width:7cm;
+    border-color: black;
+    border-radius: 2cm;
+    margin:4px;
+}
+.amerfort{
+    padding:10px;
+    margin:1cm;
+    border:1px solid;
+    background-color: antiquewhite;
+    display:flex;
+    box-sizing: content-box;
+    flex-direction:row;
+    border-color: black;
+    border-radius: 1cm;
+}
+.Amerfort{
+    height:7cm;
+    width:7cm;
+    border-color: black;
+    border-radius: 2cm;
+    margin:4px;
+}
+.konarksuntemple{
+    padding:10px;
+    margin:1cm;
+    border:1px solid;
+    background-color: antiquewhite;
+    display:flex;
+    box-sizing: content-box;
+    flex-direction:row;
+    border-color: black;
+    border-radius: 1cm;
+}
+.Konarksuntemple{
+    height:7cm;
+    width:7cm;
+    border-color: black;
+    border-radius: 2cm;
+    margin:4px;
+}
+.meenakshitemple{
+    padding:10px;
+    margin:1cm;
+    border:1px solid;
+    background-color: antiquewhite;
+    display:flex;
+    box-sizing: content-box;
+    flex-direction:row;
+    border-color: black;
+    border-radius: 1cm;
+}
+.Meenakshitemple{
+    height:7cm;
+    width:7cm;
+    border-color: black;
+    border-radius: 2cm;
+    margin:4px;
+}
+.last{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    padding-left:1000px;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+  }
+  
+  .up {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5em;
+  }
+  
+  .down {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5em;
+  }
+  
+  .card1 {
+    width: 90px;
+    height: 90px;
+    outline: none;
+    border: none;
+    background: white;
+    border-radius: 90px 5px 5px 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: .2s ease-in-out;
+  }
+  
+  .instagram {
+    margin-top: 1.5em;
+    margin-left: 1.2em;
+    fill: #cc39a4;
+  }
+  
+  .card2 {
+    width: 90px;
+    height: 90px;
+    outline: none;
+    border: none;
+    background: white;
+    border-radius: 5px 90px 5px 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: .2s ease-in-out;
+  }
+  
+  .facebook {
+    margin-top: 1.5em;
+    margin-left: -.9em;
+    fill: #03A9F4;
+  }
+  
+  .card3 {
+    width: 90px;
+    height: 90px;
+    outline: none;
+    border: none;
+    background: white;
+    border-radius: 5px 5px 5px 90px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: .2s ease-in-out;
+  }
+  
+  .whatsapp {
+    margin-top: -.6em;
+    margin-left: 1.2em;
+    fill: #00ff00;
+  }
+  
+  .card4 {
+    width: 90px;
+    height: 90px;
+    outline: none;
+    border: none;
+    background: white;
+    border-radius: 5px 5px 90px 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: .2s ease-in-out;
+  }
+  
+  .gmail {
+    margin-top: -.9em;
+    margin-left: -1.2em;
+    fill: #f14336;
+  }
+  
+  .card1:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #cc39a4;
+  }
+  
+  .card1:hover .instagram {
+    fill: white;
+  }
+  
+  .card2:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #1877f2;
+  }
+  
+  .card2:hover .facebook {
+    fill: white;
+  }
+  
+  .card3:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #00ff00;
+  }
+  
+  .card3:hover .whatsapp {
+    fill: white;
+  }
+  
+  .card4:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #FF0004;
+  }
+  
+  .card4:hover .gmail {
+    fill: white;
+  }
+.findme{
+    align-items: center;
+    display:flex;
+    flex-direction:column;
+}
+h3{
+    font-size: larger;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: oblique;
+}
